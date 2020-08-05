@@ -1,25 +1,20 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
-# Thiago Marinho
+# Gil Sant'Anna
 
 ## Hi there 👋
 
 I'm a lover to solve problems. Any problem.
 
-I'm a mathematician/biophysician and Junior FullStack Developer :computer:
+I'm a mathematician/biophysician and learning Developer :computer:
 
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :purple_heart: &nbsp; Looking forward to collaborate with projects in Front-end using React
+ <br/> :blush: &nbsp; I can help you with Data Visualization
+ <br/> 💬  &nbsp; About me: I love technologies, HealthTech, dancing and painting.
+ <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gilsantanna/)](https://www.linkedin.com/in/gilsantanna/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-santannaoct4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santannaoct4@gmail.com)](mailto:santannaoct4@gmail.com)
 
 
 ### Hi there 👋
